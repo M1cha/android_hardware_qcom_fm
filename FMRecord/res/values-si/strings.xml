@@ -29,15 +29,15 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="no_storage">Kayda başlamadan önce SD kartı yerleştirin.</string>
-  <string name="preparing_sd">SD kart hazırlanıyor</string>
-  <string name="access_sd_fail">SD karta erişilemedi.</string>
-  <string name="spaceIsLow_content">SD kartının depolama alanı azalıyor. Kalite ayarlarını değiştirin veya bazı resimleri ya da diğer dosyaları silin.</string>
-  <string name="FMRecording_reach_size_limit">Boyut sınırına ulaşıldı.</string>
-  <string name="audio_db_title_format"><xliff:g id="format">yyyy-AA-gg SS:dd:ss</xliff:g></string>
-  <string name="audio_db_artist_name">FM kayıtlarım</string>
-  <string name="audio_db_album_name">FM kayıtları</string>
-  <string name="audio_db_playlist_name">FM kayıtları</string>
-  <string name="save_record_file">FM kayıt dosyası \'<xliff:g id="record_file">%1$s</xliff:g>\' yoluna kaydedildi</string>
-  <string name="fm_record_progress">FM kaydı devam ediyor</string>
+  <string name="no_storage">රෙකෝඩනය ඇරඹීමට පෙර SD කාඩ්පත අමුණන්න.</string>
+  <string name="preparing_sd">SD කාඩ්පත සූදානම් කරමින්</string>
+  <string name="access_sd_fail">SD කාඩ්පතට ප්‍රවේශ විය නොහැක.</string>
+  <string name="spaceIsLow_content">ඔබගේ SD කාඩ්පතෙහි ආචයනයේ ඉඩ අඩුවෙමින් පවතී. ගුණාත්මක සැකසීම වෙනස් කරන්න නැතිනම් සේයා හෝ අනෙක් ගොනු කිහිපයක් මකන්න.</string>
+  <string name="FMRecording_reach_size_limit">ප්‍රමාණයේ සීමාවට ළඟාවුණි.</string>
+  <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+  <string name="audio_db_artist_name">මගේ FM රෙකෝඩන</string>
+  <string name="audio_db_album_name">FM රෙකෝඩන</string>
+  <string name="audio_db_playlist_name">FM රෙකෝඩන</string>
+  <string name="save_record_file">FM රෙකෝඩිත ගොනුව \'<xliff:g id="record_file">%1$s</xliff:g>\' ට සුරැකිනි</string>
+  <string name="fm_record_progress">FM රෙකෝඩනය කරමින්</string>
 </resources>

@@ -29,15 +29,15 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="no_storage">Kayda başlamadan önce SD kartı yerleştirin.</string>
-  <string name="preparing_sd">SD kart hazırlanıyor</string>
-  <string name="access_sd_fail">SD karta erişilemedi.</string>
-  <string name="spaceIsLow_content">SD kartının depolama alanı azalıyor. Kalite ayarlarını değiştirin veya bazı resimleri ya da diğer dosyaları silin.</string>
-  <string name="FMRecording_reach_size_limit">Boyut sınırına ulaşıldı.</string>
-  <string name="audio_db_title_format"><xliff:g id="format">yyyy-AA-gg SS:dd:ss</xliff:g></string>
-  <string name="audio_db_artist_name">FM kayıtlarım</string>
-  <string name="audio_db_album_name">FM kayıtları</string>
-  <string name="audio_db_playlist_name">FM kayıtları</string>
-  <string name="save_record_file">FM kayıt dosyası \'<xliff:g id="record_file">%1$s</xliff:g>\' yoluna kaydedildi</string>
-  <string name="fm_record_progress">FM kaydı devam ediyor</string>
+  <string name="no_storage">เชื่อมต่อ SD card ก่อนเริ่มการบันทึก</string>
+  <string name="preparing_sd">กำลังเตรียม SD card</string>
+  <string name="access_sd_fail">ไม่สามารถเข้าถึง SD card</string>
+  <string name="spaceIsLow_content">SD card ของคุณเต็ม เปลี่ยนระดับคุณภาพเสียงหรือลบภาพบางภาพหรือไฟล์อื่นๆออกไป</string>
+  <string name="FMRecording_reach_size_limit">จำกัดขนาด</string>
+  <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+  <string name="audio_db_artist_name">บันทึก FM ของฉัน</string>
+  <string name="audio_db_album_name">กำลังบันทึก FM</string>
+  <string name="audio_db_playlist_name">กำลังบันทึก FM</string>
+  <string name="save_record_file">ไฟล์ FM บันทึกไปยัง  \"<xliff:g id="record_file">%1$s</xliff:g>\"</string>
+  <string name="fm_record_progress">FM Recording กำลังทำงาน</string>
 </resources>

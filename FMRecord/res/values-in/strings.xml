@@ -29,15 +29,15 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="no_storage">Kayda başlamadan önce SD kartı yerleştirin.</string>
-  <string name="preparing_sd">SD kart hazırlanıyor</string>
-  <string name="access_sd_fail">SD karta erişilemedi.</string>
-  <string name="spaceIsLow_content">SD kartının depolama alanı azalıyor. Kalite ayarlarını değiştirin veya bazı resimleri ya da diğer dosyaları silin.</string>
-  <string name="FMRecording_reach_size_limit">Boyut sınırına ulaşıldı.</string>
-  <string name="audio_db_title_format"><xliff:g id="format">yyyy-AA-gg SS:dd:ss</xliff:g></string>
-  <string name="audio_db_artist_name">FM kayıtlarım</string>
-  <string name="audio_db_album_name">FM kayıtları</string>
-  <string name="audio_db_playlist_name">FM kayıtları</string>
-  <string name="save_record_file">FM kayıt dosyası \'<xliff:g id="record_file">%1$s</xliff:g>\' yoluna kaydedildi</string>
-  <string name="fm_record_progress">FM kaydı devam ediyor</string>
+  <string name="no_storage">Pasang kartu SD sebelum memulai rekaman.</string>
+  <string name="preparing_sd">Menyiapkan kartu SD</string>
+  <string name="access_sd_fail">Tidak bisa mengakses kartu SD.</string>
+  <string name="spaceIsLow_content">Kartu SD anda kehabisan ruang penyimpanan. Ubah pengaturan kualitas atau hapus beberapa gambar atau file lainnya.</string>
+  <string name="FMRecording_reach_size_limit">Mendekati batas ukuran.</string>
+  <string name="audio_db_title_format"><xliff:g id="format">dd-MM-yyyy- HH:mm:ss</xliff:g></string>
+  <string name="audio_db_artist_name">Rekaman FM saya</string>
+  <string name="audio_db_album_name">Rekaman FM</string>
+  <string name="audio_db_playlist_name">Rekaman FM</string>
+  <string name="save_record_file">File rekaman FM disimpan ke \'<xliff:g id="record_file">%1$s</xliff:g>\'</string>
+  <string name="fm_record_progress">Rekaman FM dalam proses</string>
 </resources>
